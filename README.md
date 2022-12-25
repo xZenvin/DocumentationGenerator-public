@@ -1,6 +1,11 @@
 # DocumentationGenerator-public
 A repository to host builds of my Documentation Generator tool, for everyone to use.
 
+<p align="center">
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/xZenvin/DocumentationGenerator-public?label=latest%20release&logoColor=blue&style=for-the-badge">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/xZenvin/DocumentationGenerator-public?label=open%20issues&style=for-the-badge">
+</p>
+
 ---
 
 Full usage instructions and documentation pending. [*Ironic*, I know.](https://media3.giphy.com/media/9MJ6xrgVR9aEwF8zCJ/giphy.gif?cid=ecf05e47jt36m4srbiu5pu6ube6c11a19f45b2gsyc2vw6wp&rid=giphy.gif&ct=g)
