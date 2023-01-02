@@ -8,7 +8,9 @@ A repository to host builds of my Documentation Generator tool, for everyone to 
 
 ---
 
-Full usage instructions and documentation pending. [*Ironic*, I know.](https://media3.giphy.com/media/9MJ6xrgVR9aEwF8zCJ/giphy.gif?cid=ecf05e47jt36m4srbiu5pu6ube6c11a19f45b2gsyc2vw6wp&rid=giphy.gif&ct=g)
+<p align="center">
+Documentation and usage instructions can be found in this repository's <a href="https://github.com/xZenvin/DocumentationGenerator-public/wiki">Wiki</a>.
+</p>
 
 ---
 
