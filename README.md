@@ -29,18 +29,22 @@ documentation
   [-o|-output <output directory>]
   [-version <version>]
   [-p|-pause <true|false>]
+  [-l <link repository file path>]
 ```
 ### Options
 - `-s|-settings` (required) \
   The path given for this option must be a local file path pointing to a text file in JSON format.
   The file must contain a valid configuration for the documentation generator.
 - `-o|-output` \
-  If given a value, this will override the `Output.BaseDirectory` specified in the generation settings.
+  If given a value, this will override the `Output:BaseDirectory` specified in the [Generation Settings](https://github.com/xZenvin/DocumentationGenerator-public/wiki/GenerationSettings#outputsettings).
 - `-version` \
   If given a value, this will overwrite the `Input.Version` specified in the generation settings.
 - `-p|-pause` \
   If set to `true`, the console will wait for user input after the process has finished or failed.
   This defaults to `false` and is mainly meant for debugging purposes.
+- `-l` \
+  If given a value, this will override the `Input:LinkRepository` specified in the [Generation Settings](https://github.com/xZenvin/DocumentationGenerator-public/wiki/GenerationSettings#inputsettings). \
+  *(Release `pre-0.0.2+`)*
   
 ## `links`
 The `links` command allows creating a link repository file that can be used in future generation processes to eliminate the need for link prompts.
